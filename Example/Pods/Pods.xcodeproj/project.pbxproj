@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		07606032071F2E58C693A83EDE689706 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		116D790C2755F735004AA747 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 116D790B2755F735004AA747 /* Logger.swift */; };
+		116D790E2755FB07004AA747 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 116D790B2755F735004AA747 /* Logger.swift */; };
 		2B1CA44849CBA380B0DB0118DB921216 /* TestTools-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2115CBC644B6EA0FFBB14D47D51FBEAF /* TestTools-dummy.m */; };
 		31F0E78155EFE302064D3C64C6838DE0 /* Pods-TestTools_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B7A265CE6CF674ED9792FD797467206 /* Pods-TestTools_Example-dummy.m */; };
 		589D0AE952738C1ADB0F2AFE3D21D79A /* Pods-TestTools_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A4467F2FDD8DE83C6E767C293645A576 /* Pods-TestTools_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -381,6 +381,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2B1CA44849CBA380B0DB0118DB921216 /* TestTools-dummy.m in Sources */,
+				116D790E2755FB07004AA747 /* Logger.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -389,7 +390,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				31F0E78155EFE302064D3C64C6838DE0 /* Pods-TestTools_Example-dummy.m in Sources */,
-				116D790C2755F735004AA747 /* Logger.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
