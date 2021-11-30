@@ -7,7 +7,7 @@
 
 import Foundation
 
-public class Logger {
+public class LoggerT {
     public func doPrint() {
         print("Hello World!")
     }
