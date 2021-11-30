@@ -1,0 +1,22 @@
+{
+  "name": "TestTools",
+  "version": "0.1.0",
+  "summary": "A short description of TestTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/joshianant34/TestTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "joshianant34": "anant.joshi@hotstar.com"
+  },
+  "source": {
+    "git": "https://github.com/joshianant34/TestTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestTools/Classes/**/*"
+}
